@@ -1,27 +1,30 @@
 module.exports = [
   {
     id: 0,
-    name: '',
-    color: '',
-    symbol: '',
-    mascot: ''
+    name: 'Ellis',
+    color: 'Steel Teal',
+    symbol: 'Lamda',
+    mascot: 'Narwhal'
   },
+  {
     id: 1,
-    name: '',
-    color: '',
-    symbol: '',
-    mascot: ''
+    name: 'Turing',
+    color: 'Sunglow',
+    symbol: 'Tree',
+    mascot: 'Yellowjacket'
   },
+  {
     id: 2,
-    name: '',
-    color: '',
-    symbol: '',
-    mascot: ''
+    name: 'Lovelace',
+    color: 'Mango Tango',
+    symbol: 'Pi',
+    mascot: 'Llama'
   },
+  {
     id: 3,
-    name: '',
-    color: '',
-    symbol: '',
-    mascot: ''
+    name: 'Liskov',
+    color: 'Onyx',
+    symbol: 'Curly Braces',
+    mascot: 'Chimera'
   }
 ]
